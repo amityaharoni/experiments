@@ -1,0 +1,25 @@
+# Ignore Python virtual environments
+venv/
+
+# Ignore project dependencies
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore data and model files
+data/
+models/
+
+# Ignore logs and temporary files
+logs/
+tmp/
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore system files
+.DS_Store
+Thumbs.db
