@@ -23,3 +23,14 @@ tmp/
 # Ignore system files
 .DS_Store
 Thumbs.db
+
+.venv/
+
+.env
+.python-version
+myports.txt
+requested.txt
+restore_ports.tcl
+.eggs/
+MulticoreTSNE.egg-info/
+build/
