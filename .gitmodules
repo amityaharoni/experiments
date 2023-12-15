@@ -1,6 +1,0 @@
-[submodule "machine-learning-with-ontologies"]
-	path = machine-learning-with-ontologies
-	url = https://github.com/bio-ontology-research-group/machine-learning-with-ontologies
-[submodule "Multicore-TSNE"]
-	path = Multicore-TSNE
-	url = https://github.com/DmitryUlyanov/Multicore-TSNE
